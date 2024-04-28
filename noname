@@ -1,0 +1,522 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Thank you for using our hosting!</title>
+        
+    <style type="text/css">
+		#outlook a{
+			padding:0;
+		}
+		.ReadMsgBody{
+			width:100%;
+		}
+		.ExternalClass{
+			width:100%;
+		}
+		.ExternalClass,.ExternalClass p,.ExternalClass span,.ExternalClass font,.ExternalClass td,.ExternalClass div{
+			line-height:100%;
+		}
+		body,table,td,p,a,li,blockquote{
+			-webkit-text-size-adjust:100%;
+			-ms-text-size-adjust:100%;
+		}
+		table,td{
+			mso-table-lspace:0pt;
+			mso-table-rspace:0pt;
+		}
+		img{
+			-ms-interpolation-mode:bicubic;
+		}
+		body{
+			margin:0;
+			padding:0;
+		}
+		img{
+			border:0;
+			line-height:100%;
+			outline:none;
+			text-decoration:none;
+			max-height:100%;
+		}
+		img[style]{
+			height:auto !important;
+		}
+		table{
+			border-collapse:collapse !important;
+		}
+		body,#bodyTable,#bodyCell{
+			height:100% !important;
+			margin:0;
+			padding:0;
+			width:100% !important;
+		}
+		#bodyCell{
+			padding:20px;
+		}
+		#templateContainer{
+			width:600px;
+		}
+		.footer-img{
+			width:300px;
+			text-align:center;
+		}
+		body,#bodyTable{
+			background-color:#e4f5f9;
+		}
+		#bodyCell{
+			border-top:4px solid #BBBBBB;
+		}
+		#templateContainer{
+			border:0px;
+		}
+		h1{
+			color:#2a3c43 !important;
+			display:block;
+			font-family:Helvetica;
+			font-size:34px;
+			font-style:normal;
+			font-weight:normal;
+			line-height:1.3em;
+			letter-spacing:normal;
+			margin-top:0;
+			margin-right:0;
+			margin-bottom:20px;
+			margin-left:0;
+			text-align:left;
+		}
+		h2{
+			color:#2a3c43 !important;
+			display:block;
+			font-family:Helvetica;
+			font-size:18px;
+			font-style:normal;
+			font-weight:bold;
+			line-height:1.3em;
+			letter-spacing:normal;
+			text-transform:uppercase;
+			margin-top:0;
+			margin-right:0;
+			margin-bottom:10px;
+			margin-left:0;
+			text-align:left;
+		}
+		h3{
+			color:#8f999b !important;
+			display:block;
+			font-family:Helvetica;
+			font-size:22px;
+			font-weight:normal;
+			line-height:1.3em;
+			letter-spacing:normal;
+			margin-top:0;
+			margin-right:0;
+			margin-bottom:15px;
+			margin-left:0;
+			text-align:left;
+		}
+		h4{
+			color:#2a3c43 !important;
+			display:block;
+			font-family:Helvetica;
+			font-size:14px;
+			font-weight:normal;
+			line-height:100%;
+			letter-spacing:normal;
+			margin-top:0;
+			margin-right:0;
+			margin-bottom:10px;
+			margin-left:0;
+			text-align:left;
+		}
+		.button{
+			background:#48c019;
+			color:#fff !important;
+			font-family:Helvetica;
+			border-radius:15px;
+			-webkit-box-shadow:inset 0 -3px 0 rgba(0,0,0,.07);
+			-moz-box-shadow:inset 0 -3px 0 rgba(0,0,0,.07);
+			-o-box-shadow:inset 0 -3px 0 rgba(0,0,0,.07);
+			-ms-box-shadow:inset 0 -3px 0 rgba(0,0,0,.07);
+			box-shadow:inset 0 -3px 0 rgba(0,0,0,.07);
+			font-size:22px;
+			font-weight:bold !important;
+			padding:15px 30px 16px;
+			text-decoration:none !important;
+			display:inline-block;
+			margin:20px auto 50px;
+		}
+		#templatePreheader{
+			background-color:#e4f5f9;
+			border-bottom:0px;
+		}
+		.preheaderContent{
+			color:#8f999b;
+			font-family:Helvetica;
+			font-size:10px;
+			line-height:125%;
+			text-align:left;
+		}
+		.preheaderContent a:link,.preheaderContent a:visited,.preheaderContent a .yshortcuts{
+			color:#1eaedb;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		#templateHeader{
+			background-color:none;
+			border-top:0px;
+			border-bottom:0px;
+			text-align:center;
+		}
+		.headerContent{
+			color:#505050;
+			font-family:Helvetica;
+			font-size:20px;
+			font-weight:bold;
+			line-height:100%;
+			padding-top:0;
+			padding-right:0;
+			padding-bottom:0;
+			padding-left:0;
+			text-align:center;
+			vertical-align:middle;
+		}
+		.headerContent a:link,.headerContent a:visited,.headerContent a .yshortcuts{
+			color:#EB4102;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		#headerImage{
+			height:auto;
+			max-width:600px;
+		}
+		#templateBody{
+			background-color:#FFFFFF;
+			border-top:0px;
+			border-bottom:1px solid #edefef;
+			border-radius:5px 5px 0px 0px;
+		}
+		.bodyContent{
+			color:#8f999b;
+			font-family:Helvetica;
+			font-size:16px;
+			line-height:150%;
+			padding-top:40px;
+			padding-right:40px;
+			padding-bottom:40px;
+			padding-left:40px;
+			text-align:left;
+		}
+		.bodyContent a:link,.bodyContent a:visited,.bodyContent a .yshortcuts{
+			color:#d65129;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		.bodyContent img{
+			display:inline;
+			max-width:560px;
+			max-height:100%;
+		}
+		.templateColumnContainer{
+			width:260px;
+			padding:20px;
+		}
+		#templateColumns{
+			background-color:#FFFFFF;
+			border-top:1px solid #FFF;
+			border-bottom:1px solid #edefef;
+		}
+		.leftColumnContent{
+			color:#505050;
+			font-family:Helvetica;
+			font-size:14px;
+			line-height:150%;
+			padding-top:0;
+			padding-right:0px;
+			padding-bottom:20px;
+			padding-left:20px;
+			text-align:left;
+		}
+		.leftColumnContent a:link,.leftColumnContent a:visited,.leftColumnContent a .yshortcuts{
+			color:#d65129;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		.rightColumnContent{
+			color:#2a3c43;
+			font-family:Helvetica;
+			font-size:14px;
+			line-height:150%;
+			padding-top:0;
+			padding-right:20px;
+			padding-bottom:20px;
+			padding-left:0px;
+			text-align:left;
+		}
+		.rightColumnContent a:link,.rightColumnContent a:visited,.rightColumnContent a .yshortcuts{
+			color:#d65129;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		.leftColumnContent img,.rightColumnContent img{
+			display:inline;
+			max-width:260px;
+		}
+		#templateFooter{
+			background-color:#FAFAFA;
+			border-top:0px;
+			border-radius:0px 0px 5px 5px;
+		}
+		.footerContent{
+			color:#808080;
+			font-family:Helvetica;
+			font-size:14px;
+			line-height:150%;
+			padding-top:20px;
+			padding-right:40px;
+			padding-bottom:20px;
+			padding-left:40px;
+			text-align:center;
+		}
+		.footerContent a:link,.footerContent a:visited,.footerContent a .yshortcuts,.footerContent a span{
+			color:#1eaedb;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+	@media only screen and (max-width:480px){
+		body,table,td,p,a,li,blockquote{
+			-webkit-text-size-adjust:none !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		body{
+			width:100% !important;
+			min-width:100% !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		#bodyCell{
+			padding:10px !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		#templateContainer{
+			max-width:600px !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		h1{
+			font-size:34px !important;
+			line-height:100% !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		h2{
+			font-size:18px !important;
+			line-height:100% !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		h3{
+			font-size:20px !important;
+			line-height:100% !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		h4{
+			font-size:16px !important;
+			line-height:100% !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		#templatePreheader{
+			display:none !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		#headerImage{
+			height:auto !important;
+			max-width:600px !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		.headerContent{
+			font-size:20px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		.bodyContent{
+			font-size:18px !important;
+			line-height:125% !important;
+			padding-top:20px;
+			padding-right:20px;
+			padding-bottom:20px;
+			padding-left:20px;
+		}
+
+}	@media only screen and (max-width:480px){
+		.bodyContent img{
+			max-width:100%;
+			height:auto;
+		}
+
+}	@media only screen and (max-width:480px){
+		.templateColumnContainer{
+			display:block !important;
+			width:100% !important;
+			padding:0px;
+		}
+
+}	@media only screen and (max-width:480px){
+		.columnImage{
+			height:auto !important;
+			max-width:480px !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		.leftColumnContent{
+			font-size:16px !important;
+			line-height:125% !important;
+			padding:20px;
+		}
+
+}	@media only screen and (max-width:480px){
+		.rightColumnContent{
+			font-size:16px !important;
+			line-height:125% !important;
+			padding:20px;
+		}
+
+}	@media only screen and (max-width:480px){
+		.footerContent{
+			font-size:14px !important;
+			line-height:115% !important;
+			padding-top:20px;
+			padding-right:20px;
+			padding-bottom:20px;
+			padding-left:20px;
+		}
+
+}	@media only screen and (max-width:480px){
+		.footerContent a{
+			display:block !important;
+		}
+
+}</style></head>
+    <body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;margin: 0;padding: 0;background-color: #e4f5f9;height: 100% !important;width: 100% !important;">
+        <center>
+            <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;margin: 0;padding: 0;background-color: #e4f5f9;border-collapse: collapse !important;height: 100% !important;width: 100% !important;">
+                <tr>
+                    <td align="center" valign="top" id="bodyCell" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;margin: 0;padding: 20px;border-top: 4px solid #BBBBBB;height: 100% !important;width: 100% !important;">
+                        <!-- BEGIN TEMPLATE // -->
+                        <table border="0" cellpadding="0" cellspacing="0" id="templateContainer" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;width: 600px;border: 0px;border-collapse: collapse !important;">
+                            <tr>
+                                <td align="center" valign="top" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                                    <!-- BEGIN PREHEADER // -->
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%" id="templatePreheader" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;background-color: #e4f5f9;border-bottom: 0px;border-collapse: collapse !important;">
+                                        <tr>
+                                            <td valign="top" class="preheaderContent" style="padding-top: 10px;padding-right: 10px;padding-bottom: 10px;padding-left: 0px;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #8f999b;font-family: Helvetica;font-size: 10px;line-height: 125%;text-align: left;">A satisfied customer is the best business strategy of all.</td>
+                                            <!-- 
+ -->
+                                            <td valign="top" width="180" class="preheaderContent" style="padding-top: 10px;padding-right: 0px;padding-bottom: 10px;padding-left: 10px;text-align: right;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #8f999b;font-family: Helvetica;font-size: 10px;line-height: 125%;">
+                                                Email not displaying correctly?<br><a href="http://ifastnet.com/newsletter/1week.html" target="_blank" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #1eaedb;font-weight: normal;text-decoration: underline;">View it in your browser</a>.
+                                            </td>
+                                            <!-- 
+ -->
+                                        </tr>
+                                    </table>
+                                    <!-- // END PREHEADER -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" valign="top" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                                    <!-- BEGIN HEADER // -->
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%" id="templateHeader" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;background-color: none;border-top: 0px;border-bottom: 0px;text-align: center;border-collapse: collapse !important;">
+                                        <tr>
+                                            <td valign="top" class="headerContent" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #505050;font-family: Helvetica;font-size: 20px;font-weight: bold;line-height: 100%;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;text-align: center;vertical-align: middle;">
+                                                <img src="https://images.hostmessage.info/login_logo/353a0245b3b060c31fe81c28e050c552.jpg" style="max-width: 600px;-ms-interpolation-mode: bicubic;border: 0;line-height: 100%;outline: none;text-decoration: none;max-height: 100%;height: auto !important;" id="headerImage">
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // END HEADER -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" valign="top" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                                    <!-- BEGIN BODY // -->
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%" id="templateBody" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;background-color: #FFFFFF;border-top: 0px;border-bottom: 1px solid #edefef;border-radius: 5px 5px 0px 0px;border-collapse: collapse !important;">
+                                        <tr>
+                                            <td valign="top" class="bodyContent" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #8f999b;font-family: Helvetica;font-size: 16px;line-height: 150%;padding-top: 40px;padding-right: 40px;padding-bottom: 40px;padding-left: 40px;text-align: left;"><h1 style="display: block;font-family: Helvetica;font-size: 34px;font-style: normal;font-weight: normal;line-height: 1.3em;letter-spacing: normal;margin-top: 0;margin-right: 0;margin-bottom: 20px;margin-left: 0;text-align: left;color: #2a3c43 !important;">Thank you for using our hosting!</h1>
+<a href="https://ifastnet.com/portal/" target="_blank" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #d65129;font-weight: normal;text-decoration: underline;"><img align="none" height="250" src="http://ifastnet.com/images/0.jpeg" style="width: 590px;height: 290px;margin: 0px;-ms-interpolation-mode: bicubic;border: 0;line-height: 100%;outline: none;text-decoration: none;max-height: 100%;display: inline;max-width: 560px;" width="590"></a><br>
+<br>
+<span>
+Did you know its been one week since you registered for free hosting with us?  We are writing to say thanks for using us!<br>
+<br>Inside your free hosting control panel we provide an integrated support system were you can contact us and ask any questions about your hosting account and get help.  We also have a comprehensive Knowledge base at the link below which you can use to look up answers to common questions:<br>
+<a href="http://kb.securesignup.net/index.php?/category/7/0/10/Free-Hosting/">Knowledge Base</a> <br>
+<br>
+I hope you are enjoying using your free hosting and would like to offer you our full support in building your online presence.  I highly recommend checking the Softaculous link in your cPanel, this can be used to instantly in just a few clicks, install Forums, Photo galleries, Social Networks and many great website applications that will make a professional awesome site in no time!<br>
+<Br>
+If the time comes when you want more features, or need more hosting space, faster servers, more traffic or power to your free account, we have a range of upgraded solutions to meet your needs.<br>
+<br>
+Though to our partner iFastNet we are proud to be able to directly upgrade your Html-5.ir free account to our awesome SSD powered super fast premium hosting!
+<br>
+As a free member of our services we can provide you a exclusive discount coupon which can be used when upgrading:
+<br><br>
+<b>SUPERSSD</b> Coupon Code<br><br>
+This coupon code will get you for a limited time a huge 20% off all premium hosting plans!<br><br>
+<b>What are the benefits of Premium Hosting ?</b><br>
+- Unlimited daily hits.<br>
+- Super fast SSD powered premium servers.<bR>
+- Unlimited disk space and traffic.<br>
+- Upto 21 free domain names !<br>
+- SMTP/IMAP/POP email accounts.<br>
+- Premium cPanel control panel.<br>
+- Choice of PHP versions from 5.2 to PHP 5.6.<br>
+- All PHP functions enabled / fully featured server.<br>
+- Free Cloudflare RAILGUN acceleration worth 200 USD.<br>
+- Free migration of free account data to premium,<br>
+- 100% satifaction guaranteed or we will refund.<br>
+- 100's of extra features in the premium cPanel.<br>
+<br>
+So if your looking for more features, a faster server, free domains or just an awesome permanent home for your hobby or business website, our premium hosting is the ideal place for you: Running on our blazingly fast SSD (solid state drive) powered servers!
+</span>
+
+<a href="https://ifastnet.com/portal/" target="_blank" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #d65129;font-weight: normal;text-decoration: underline;"><img align="none" height="250" src="http://ifastnet.com/images/hosting.png" style="width: 590px;height: 290px;margin: 0px;-ms-interpolation-mode: bicubic;border: 0;line-height: 100%;outline: none;text-decoration: none;max-height: 100%;display: inline;max-width: 560px;" width="590"></a><br>
+<div style="text-align: center;"><a class="button" href="https://ifastnet.com/portal/sharedhosting.php" style="line-height: 24.0000019073486px;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;background: #48c019;font-family: Helvetica;border-radius: 15px;-webkit-box-shadow: inset 0 -3px 0 rgba(0,0,0,.07);-moz-box-shadow: inset 0 -3px 0 rgba(0,0,0,.07);-o-box-shadow: inset 0 -3px 0 rgba(0,0,0,.07);-ms-box-shadow: inset 0 -3px 0 rgba(0,0,0,.07);box-shadow: inset 0 -3px 0 rgba(0,0,0,.07);font-size: 22px;padding: 15px 30px 16px;display: inline-block;margin: 20px auto 50px;color: #fff !important;font-weight: bold !important;text-decoration: none !important;" target="_blank">Show me more !</a></div>
+
+<h2 style="display: block;font-family: Helvetica;font-size: 18px;font-style: normal;font-weight: bold;line-height: 1.3em;letter-spacing: normal;text-transform: uppercase;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;color: #2a3c43 !important;">SUPERSSD coupon code</h2>
+Don't forget to claim your 20% discount at the iFastNet checkout using the <b>SUPERSSD</b> coupon code.
+
+<br><br>
+<div style="text-align: left;">We hope to see you soon !<br>
+<img align="none"  src="https://ifastnet.com/images/thank-you-dog-and-cat.jpg" style="margin: 0px;-ms-interpolation-mode: bicubic;border: 0;line-height: 100%;outline: none;text-decoration: none;max-height: 100%;display: inline;max-width: 560px;" ><br>
+Html-5.ir & iFastNet Ltd.<br>
+<a href="https://ifastnet.com/portal/">Click here to visit our website</a></span></div>
+</td>
+                                        </tr>
+                                    </table>
+                                    <!-- // END BODY -->
+                                </td>
+                            </tr>
+                         
+                            <tr>
+                                <td align="center" valign="top" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                                    <!-- BEGIN FOOTER // -->
+			            </small><a style="font-size: 10px" href="http://byethost.com/unsubscribe.php?id=b662cfa8805547af77d3fb30da58d3f3&mail=abolhasanikhajeh@gmail.com">Unsubscribe</a></small>
+                                    <!-- // END FOOTER -->
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- // END TEMPLATE -->
+                    </td>
+                </tr>
+            </table>
+        </center>
+    </body>
+</html>
+
+
